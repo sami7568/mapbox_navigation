@@ -1,0 +1,45 @@
+import 'package:flutter/material.dart';
+
+//T0d0: use k with all constant variables e.g kOrangeColor
+//T0d0: fix all linter issues (spellings, camelCase)
+const kBackgroundColor = kCyanBlueColor;
+const kSandyBrownColor = Color(0xffF89D57);
+const kCoralColor = Color(0xffF3825D);
+const kAtomicTangerineColor = Color(0xffF79858);
+const kDarkCoralColor = Color(0xffCC5849);
+const kWhiteColor = Color(0xffFDFDFF);
+const kSquidInkColor = Color(0xff11243D);
+const kBlackColor = Color(0xff000000);
+const kItemGreyColor = Color(0xffF4F6FA);
+const kCaribbeanCurrentColor = Color(0xff16616F);
+const kAntiFlashWhiteColor = Color(0xffEFF1F3);
+const kShadowBlueColor = Color(0xff7789A1);
+const kRedColor = Color(0xffDE350B);
+const kNileBlueColor = Color(0xff172B4D);
+const kMercuryColor = Color(0xffE5E5E5);
+const kCyanBlueColor = Color(0xffF4F5F7);
+const kGreyTextColor = Color(0xff7A869A);
+const kPlatinumColor = Color(0xffE6E6EB);
+const kBotticelliColor = Color(0xffD9EAED);
+const kLinkWaterColor = Color(0xffCFD1D4);
+const kCharcoalColor = Color(0xff8C8C8D);
+const kLividColor = Color(0xff697A91);
+const kDimWhiteColor = Color(0xffE7E8EA);
+const kWhiteSmokeColor = Color(0xffF7F7F8);
+const kSlateGrayColor = Color(0xff697A90);
+const kLavenderGrayColor = Color(0xffC1C7D0);
+const kSpaceCadetColor = Color(0xff11142D);
+const kMidnightGreenColor = Color(0xff145F6B);
+const kGainsColor = Color(0xffD9D9D9);
+const kTransparentColor = Colors.transparent;
+const kSlateGreyColor = Color(0xff707A89);
+const kAzureColor = Color(0xff2E7BE4);
+const kRoyalBlueColor = Color(0xff5E6FD5);
+const kTurquoiseColor = Color(0xff6EE6DD);
+const kMediumSeaGreenColor = Color(0xff34BD79);
+const kBittersweetColor = Color(0xffFF6D55);
+const kBlueColor = Colors.blue;
+const kGreyColor = Colors.grey;
+const kWhiteColor1 = Colors.white;
+const kBlackColor54 = Colors.black54;
+const kYellowColor = Colors.yellow;
